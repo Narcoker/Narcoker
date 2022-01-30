@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-brightgreen?style=flat&logo=Android&logoColor=white%22"/>
   <img src="https://img.shields.io/badge/VScode-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=white%22"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-important?style=flat&logo=Visual%20Studio&logoColor=white%22"/>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-blue?style=flat&logo=arduino&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=white%22"/>
   </br>
