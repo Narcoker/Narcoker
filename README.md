@@ -1,4 +1,3 @@
-# Narcoker 👊 
 <img align=center src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Narcoker&fontSize=90" />
 
 
