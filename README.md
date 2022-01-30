@@ -1,7 +1,7 @@
 
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Narcoker&fontSize=90&desc=Frontend%20Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Narcoker&fontSize=60&desc=Frontend%20Developer" />
   <br/>
   <img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNarcoker&count_bg=%236E6E6E&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/>
   <h2>⭐Skill⭐</h2>  
