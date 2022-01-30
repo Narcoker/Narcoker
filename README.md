@@ -8,6 +8,7 @@
   <br/>
   <h2>⭐Skill⭐</h2>  
   <img src="https://img.shields.io/badge/Language%20C-orange?style=flat&logo=C&logoColor=white%22"/>
+  <img src="https://img.shields.io/badge/C++-yellow?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white%22"/>
   <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=flat&logo=kotlin&logoColor=white"/>
