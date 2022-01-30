@@ -1,9 +1,9 @@
-<img align=center src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Narcoker&fontSize=90" />
+
 
 <div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Narcoker&fontSize=90" />
   <h2>⭐Skill⭐</h2>  
   <h2>🛠Tool🛠</h2>  
-  
 </div>
 
 [![Narcoker's github stats](https://github-readme-stats.vercel.app/api?username=Narcoker&show_icons=true&theme={theme})](https://github.com/Narcoker/github-readme-stats)
