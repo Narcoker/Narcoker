@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<h1> test </h1
+<h1> test </h1>
+
+[![Narcoker's github stats](https://github-readme-stats.vercel.app/api?username=Narcoker&show_icons=true&theme={theme})](https://github.com/Narcoker/github-readme-stats)
+
 
 
 <!--
