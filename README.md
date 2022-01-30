@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/VScode-blue?style=flat&logo=Visual%20Studio%20Code&logoColor=white%22"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-important?style=flat&logo=Visual%20Studio&logoColor=white%22"/>
   </br>
+  <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=Notion&logoColor=white%22"/>
+  </br>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=Narcoker&show_icons=true&theme={theme})](https://github.com/Narcoker/github-readme-stats"/>
   <br/>
