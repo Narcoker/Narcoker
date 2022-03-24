@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=flat&logo=kotlin&logoColor=white"/>
   
   <h2>✏Studying✏</h2>
-  <img src="https://img.shields.io/badge/React-ff0605?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=blue"/>
   <img src="https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
