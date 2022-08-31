@@ -6,12 +6,6 @@
   <br/>
   <img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNarcoker&count_bg=%236E6E6E&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)"/>
   <br/>
-  <h2>⭐Skill⭐</h2>  
-  <img src="https://img.shields.io/badge/Language%20C-orange?style=flat&logo=C&logoColor=white%22"/>
-  <img src="https://img.shields.io/badge/C++-yellow?style=flat&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-blue?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white%22"/>
-  <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=flat&logo=kotlin&logoColor=white"/>
   
   <h2>✏Studying✏</h2>
   <img src="https://img.shields.io/badge/React-000000?style=flat&logo=React&logoColor=blue"/>
