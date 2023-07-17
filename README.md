@@ -19,6 +19,9 @@
   <br/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> 
   <br/>
+  <img src="https://img.shields.io/badge/Python-green?style=flat&logo=styledcomponents&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/> 
+  
 
   
   <h2>🛠Tool🛠</h2>  
